@@ -221,7 +221,7 @@ class OSSimulatorGUI:
                   danger=True, width=42).pack(pady=4)
 
         ttk.Label(center,
-                  text="PMU — Spring 2026  |  OS Project Group 26",
+                  text="PMU — Spring 2026  |  OS Project",
                   style="Sub.TLabel",
                   font=("Courier New", 8)).pack(pady=(22, 0))
 
